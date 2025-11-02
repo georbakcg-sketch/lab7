@@ -1,5 +1,5 @@
 {
-  "HTML Basic Structure": {
+  "mandatory lab7": {
     "prefix": "htmltemplate",
     "body": [
       "<!-- Georgia Bakirtzi -->",
@@ -8,13 +8,37 @@
       "<head>",
       "  <meta charset=\"UTF-8\">",
       "  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
-      "  <title>My HTML Page</title>",
+      "  <title>mandatory lab7</title>",
       "</head>",
       "<body>",
       "  <p>first HTML lab<b>bold</b>, <i>italic italic italic</i>, and <u>underlined underlined underlined</u> text.</p>",
       "</body>",
       "</html>"
     ],
-    "description": "Basic HTML document with name comment and formatting tags"
-  }
+    "description": "Mandatory lab7"
+  },
+
+"optional lab7": {
+  "prefix": "htmlmeta",
+  "body": [
+    "<!-- Georgia Bakirtzi -->",
+    "<!DOCTYPE html>",
+    "<html lang=\"en\">",
+    "<head>",
+    "  <meta charset=\"UTF-8\">",
+    "  <meta name=\"description\" content=\"My HTML lab project\">",
+    "  <meta name=\"keywords\" content=\"HTML, lab, example\">",
+    "  <meta name=\"author\" content=\"John Doe\">",
+    "  <title>optional lab7</title>",
+    "  <link rel=\"stylesheet\" href=\"style.css\">",
+    "</head>",
+    "<body>",
+    "  <p>optional HTML lab</p>",
+    "</body>",
+    "</html>"
+  ],
+  "description": "optional lab7"
 }
+}
+
+
