@@ -1,0 +1,20 @@
+{
+  "HTML Basic Structure": {
+    "prefix": "htmltemplate",
+    "body": [
+      "<!-- Georgia Bakirtzi -->",
+      "<!DOCTYPE html>",
+      "<html lang=\"en\">",
+      "<head>",
+      "  <meta charset=\"UTF-8\">",
+      "  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
+      "  <title>My HTML Page</title>",
+      "</head>",
+      "<body>",
+      "  <p>first HTML lab<b>bold</b>, <i>italic italic italic</i>, and <u>underlined underlined underlined</u> text.</p>",
+      "</body>",
+      "</html>"
+    ],
+    "description": "Basic HTML document with name comment and formatting tags"
+  }
+}
