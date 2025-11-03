@@ -1,6 +1,6 @@
 {
   "mandatory lab7": {
-    "prefix": "htmltemplate",
+    "prefix": "htmlmandatory",
     "body": [
       "<!-- Georgia Bakirtzi -->",
       "<!DOCTYPE html>",
@@ -19,7 +19,7 @@
   },
 
 "optional lab7": {
-  "prefix": "htmlmeta",
+  "prefix": "htmloptional",
   "body": [
     "<!-- Georgia Bakirtzi -->",
     "<!DOCTYPE html>",
@@ -28,7 +28,7 @@
     "  <meta charset=\"UTF-8\">",
     "  <meta name=\"description\" content=\"My HTML lab project\">",
     "  <meta name=\"keywords\" content=\"HTML, lab, example\">",
-    "  <meta name=\"author\" content=\"John Doe\">",
+    "  <meta name=\"author\" content=\"Georgia Bakirtzi\">",
     "  <title>optional lab7</title>",
     "  <link rel=\"stylesheet\" href=\"style.css\">",
     "</head>",
